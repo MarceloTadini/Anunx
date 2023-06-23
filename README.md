@@ -1,4 +1,4 @@
-# E-commerce de Vendas - Anunx :dollar:
+# E-commerce de Vendas - Anunx 
 
 
 ## Projeto em fase de construção! :construction:
